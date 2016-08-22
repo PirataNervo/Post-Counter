@@ -2,7 +2,7 @@
 
 This plugin counts the number of posts and threads of a certain user since a certain date.
 
-This might be helpful for post two "something" websites or contests where users must post to get something.
+This might be helpful for post to "something" websites or contests where users must post to get something.
 
 ## Instructions
 
